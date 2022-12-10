@@ -10,7 +10,7 @@ temps = []
 def add_line_temp(line: str):
     line_split = line.split(":")
     temp_str = line_split[2]
-    temp_str = temp_str[1:5]
+    temp_str = temp_str[1:6]
     temp = float(temp_str)
     temps.append(temp)
 
