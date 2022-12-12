@@ -21,5 +21,5 @@ sys = tf(num, den);
 
 step(sys);
 hold
-plot(temp_norm);
+plot(temp_norm, "--r");
 

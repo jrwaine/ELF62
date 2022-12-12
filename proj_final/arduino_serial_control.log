@@ -1,0 +1,35 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.12.12 20:51:44 =~=~=~=~=~=~=~=~=~=~=~=
+Localizando sensores DS18B20...
+Foram encontrados 1 sensores.
+Endereco sensor: 28181195F0013C61
+
+Sec: 0.00  Temp: 28.50  goal_temp: 30.60  initial_temp: 28.50  error: 0.14  integral_error: 0.14  u: 0.73  PWM: 185  Kp: 5.25  Ki: 0.02
+Sec: 1.00  Temp: 28.50  goal_temp: 30.60  initial_temp: 28.50  error: 0.14  integral_error: 0.28  u: 0.73  PWM: 186  Kp: 5.25  Ki: 0.02
+Sec: 2.00  Temp: 28.50  goal_temp: 30.60  initial_temp: 28.50  error: 0.14  integral_error: 0.41  u: 0.73  PWM: 187  Kp: 5.25  Ki: 0.02
+Sec: 3.00  Temp: 28.50  goal_temp: 30.60  initial_temp: 28.50  error: 0.14  integral_error: 0.55  u: 0.74  PWM: 188  Kp: 5.25  Ki: 0.02
+Sec: 4.00  Temp: 28.50  goal_temp: 30.60  initial_temp: 28.50  error: 0.14  integral_error: 0.69  u: 0.74  PWM: 188  Kp: 5.25  Ki: 0.02
+Sec: 5.00  Temp: 28.50  goal_temp: 30.60  initial_temp: 28.50  error: 0.14  integral_error: 0.83  u: 0.74  PWM: 189  Kp: 5.25  Ki: 0.02
+Sec: 6.00  Temp: 28.50  goal_temp: 30.60  initial_temp: 28.50  error: 0.14  integral_error: 0.97  u: 0.75  PWM: 190  Kp: 5.25  Ki: 0.02
+Sec: 7.00  Temp: 28.50  goal_temp: 30.60  initial_temp: 28.50  error: 0.14  integral_error: 1.11  u: 0.75  PWM: 191  Kp: 5.25  Ki: 0.02
+Sec: 8.00  Temp: 28.50  goal_temp: 30.60  initial_temp: 28.50  error: 0.14  integral_error: 1.24  u: 0.75  PWM: 191  Kp: 5.25  Ki: 0.02
+Localizando sensores DS18B20...
+Foram encontrados 1 sensores.
+Endereco sensor: 28181195F0013C61
+
+Sec: 0.00  Temp: 28.56  goal_temp: 30.60  initial_temp: 28.44  error: 0.13  integral_error: 0.13  u: 0.71  PWM: 180  Kp: 5.25  Ki: 0.02
+Sec: 1.00  Temp: 28.50  goal_temp: 30.60  initial_temp: 28.44  error: 0.14  integral_error: 0.27  u: 0.73  PWM: 186  Kp: 5.25  Ki: 0.02
+Sec: 2.00  Temp: 28.50  goal_temp: 30.60  initial_temp: 28.44  error: 0.14  integral_error: 0.41  u: 0.73  PWM: 187  Kp: 5.25  Ki: 0.02
+Sec: 3.00  Temp: 28.44  goal_temp: 30.60  initial_temp: 28.44  error: 0.14  integral_error: 0.55  u: 0.76  PWM: 193  Kp: 5.25  Ki: 0.02
+Sec: 4.00  Temp: 28.50  goal_temp: 30.60  initial_temp: 28.44  error: 0.14  integral_error: 0.69  u: 0.74  PWM: 188  Kp: 5.25  Ki: 0.02
+Sec: 5.00  Temp: 28.50  goal_temp: 30.60  initial_temp: 28.44  error: 0.14  integral_error: 0.83  u: 0.74  PWM: 189  Kp: 5.25  Ki: 0.02
+Sec: 6.00  Temp: 28.50  goal_temp: 30.60  initial_temp: 28.44  error: 0.14  integral_error: 0.97  u: 0.75  PWM: 190  Kp: 5.25  Ki: 0.02
+Sec: 7.00  Temp: 28.50  goal_temp: 30.60  initial_temp: 28.44  error: 0.14  integral_error: 1.11  u: 0.75  PWM: 191  Kp: 5.25  Ki: 0.02
+Sec: 8.00  Temp: 28.50  goal_temp: 30.60  initial_temp: 28.44  error: 0.14  integral_error: 1.24  u: 0.75  PWM: 191  Kp: 5.25  Ki: 0.02
+Sec: 9.00  Temp: 28.56  goal_temp: 30.60  initial_temp: 28.44  error: 0.13  integral_error: 1.38  u: 0.73  PWM: 186  Kp: 5.25  Ki: 0.02
+Sec: 10.00  Temp: 28.56  goal_temp: 30.60  initial_temp: 28.44  error: 0.13  integral_error: 1.51  u: 0.74  PWM: 187  Kp: 5.25  Ki: 0.02
+Sec: 11.00  Temp: 28.62  goal_temp: 30.60  initial_temp: 28.44  error: 0.13  integral_error: 1.64  u: 0.72  PWM: 182  Kp: 5.25  Ki: 0.02
+Sec: 12.00  Temp: 28.69  goal_temp: 30.60  initial_temp: 28.44  error: 0.13  integral_error: 1.77  u: 0.70  PWM: 178  Kp: 5.25  Ki: 0.02
+Sec: 13.00  Temp: 28.69  goal_temp: 30.60  initial_temp: 28.44  error: 0.13  integral_error: 1.89  u: 0.70  PWM: 178  Kp: 5.25  Ki: 0.02
+Sec: 14.00  Temp: 28.69  goal_temp: 30.60  initial_temp: 28.44  error: 0.13  integral_error: 2.02  u: 0.70  PWM: 179  Kp: 5.25  Ki: 0.02
+Sec: 15.00  Temp: 28.75  goal_temp: 30.60  initial_temp: 28.44  error: 0.12  integral_error: 2.14  u: 0.68  PWM: 174  Kp: 5.25  Ki: 0.02
+Sec: 16.00  Temp: 28.81  goal_temp: 30.60  initial_temp: 28.44  error: 0.12  integral_error: 2.26  u: 0.67  PWM: 169  Kp: 5.25  Ki: 0.02

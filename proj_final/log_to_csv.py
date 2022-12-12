@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 filename_read = "arduino_serial_treated.log"
 filename_csv = "step_response_temp.csv"
 
-
 temps = []
 
 def add_line_temp(line: str):
@@ -32,4 +31,6 @@ save_temps_to_csv()
 
 arr = np.array(temps)
 plt.plot(arr)
+plt.xlabel("Time (seconds)")
+plt.ylabel("Temperature (ºC)")
 plt.show()
