@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-filename_read = "arduino_serial_control_treated.log"
+filename_read = "logs/arduino_serial_control_treated.log"
 filename_csv = "control_signal_response.csv"
 
 header = ["Sec", "Temp", "goal_temp", "initial_temp", "error", "integral_error", "u", "PWM", "Kp", "Ki"]

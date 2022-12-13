@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-filename_read = "arduino_serial_treated.log"
+filename_read = "logs/arduino_serial_treated.log"
 filename_csv = "step_response_temp.csv"
 
 temps = []
